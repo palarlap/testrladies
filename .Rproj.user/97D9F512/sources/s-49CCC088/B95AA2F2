@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1587060455977.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3427773966",
+    "id" : "B95AA2F2",
+    "lastKnownWriteTime" : 1587060455,
+    "last_content_update" : 1587060455,
+    "path" : "C:/xampp/htdocs/rladies/test/content/post/2020-04-16-aaa.Rmd",
+    "project_path" : "content/post/2020-04-16-aaa.Rmd",
+    "properties" : {
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
